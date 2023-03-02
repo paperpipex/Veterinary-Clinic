@@ -1,9 +1,10 @@
 # Veterinary-Clinic
-*This project is part of the CS251 database system course, 
+*This project is part of the CS251 Database System course, 
 Faculty of Computer Science. Thammasat University*
+ <br /> ## You can use it for educational purposes only ##
 
 
-How to run this project (Step-by-step)
+**How to run this project (Step-by-step)**
 
 1. Open XAMPP and press Start Apache and MySQ
 
@@ -17,7 +18,7 @@ How to run this project (Step-by-step)
 
 ![image](https://user-images.githubusercontent.com/123440496/222388690-06e58df7-9be7-4f28-b27b-2306e5b17ef6.png)
 
-5. Login using by using Username = clinic_admin , password = 123456
+5. Login by using Username = clinic_admin , Password = 123456
 
 ![image](https://user-images.githubusercontent.com/123440496/222389154-4438ab80-d37f-4fae-944b-8e72d353236c.png)
 
