@@ -59,7 +59,7 @@
          <button type ="button" onclick="medtable()" class="hover-underline-animation">Medicine stock</button>
          <button type ="button" onclick="emp()" class="hover-underline-animation">บุคลากร</button> &emsp;&emsp;&emsp;&emsp;
          <img id="pic" src="../user.jpg" width="50" height="50">
-         <p class="eiei" style="font-size: 1.5em; color: #eb4012;">&emsp;Natthima Noinon</p>&emsp;
+         <p class="eiei" style="font-size: 1.5em; color: #eb4012;">&emsp;Pipe Konchanon</p>&emsp;
          <img id="pic" style="cursor: pointer;" onclick="logout()" src="../setting.png" width="50" height="50">
 
          <div class="c" id="gbox">
